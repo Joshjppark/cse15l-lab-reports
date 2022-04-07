@@ -27,6 +27,7 @@ Do `print("vote for red")` in IDLE!
 **or you can do**
 
 ```
+import sus
 print("vote for red")
 print("red vented")
 ```
