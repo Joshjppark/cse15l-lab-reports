@@ -22,12 +22,15 @@ _ _ _
 
 ![s u s](https://cdn.pixabay.com/photo/2021/02/12/13/43/among-us-6008615__480.png)
 
-Do `print("vote for red")` in IDLE!
+Run `print("vote for red")` in IDLE!
 
-**or you can do**
+**or you can run**
 
 ```
 import sus
 print("vote for red")
 print("red vented")
 ```
+
+
+This line is from vscode :o
