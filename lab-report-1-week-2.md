@@ -3,4 +3,4 @@
 
 Image of screenshot:
 
-![Image]
+![Image](screenshots/Lab1/ss1.png)
