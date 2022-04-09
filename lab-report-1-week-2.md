@@ -32,7 +32,8 @@
 ## Moving Files with `scp`
 * You can move files from the remote computer to the server using the `scp` command
 * Use `scp` + [filename on your computer] + [your username] + [directry to place file on remote computer]
-* Here is an example; I am moving the WhereAmI.java from my computer to the home directory `~/` of the remote computer: ![img](screenshots/Lab1/ss5.png)
+* Here is an example; I am moving the WhereAmI.java from my computer to the home directory `~/` of the remote computer:
+![img](screenshots/Lab1/ss5.png)
 
 
 &nbsp;
