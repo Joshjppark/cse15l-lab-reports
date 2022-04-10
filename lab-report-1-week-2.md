@@ -59,3 +59,12 @@ This lab write up contains the activites finished during Week 1 of CSE 15L Sprin
 ![img](screenshots/Lab1/ss10.png)
 * You can run multiple commands back to back by separating them with a semicolon `;`
 ![img](screenshots/Lab1/ss11.png)
+* Let's make a local copy to `WhereAmI.java` then send it to the remote server and run it there:
+![img](screenshots/Lab1/ss12.png)
+* Let's break down what is going on: First, I compiled and ran the code on the server side to show the output of the original `WhereAmI.java` file. Then, I `scp`'d the file to the server, `ssh`'d into it, and ran the file once more. You can see that there is an additional line of output `This is an edit!`
+
+&nbsp;
+___
+## Joshua Park
+### jjp003@ucsd.edu
+### A16966614
