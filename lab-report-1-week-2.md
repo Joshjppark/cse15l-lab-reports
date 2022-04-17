@@ -26,6 +26,11 @@ This lab write up contains the activites finished during Week 1 of CSE 15L Sprin
 * `touch` - creates new file
 * `cat` - prints out contents of a file
 * Here are some examples:
+
+* My terminal
+![img](screenshots/Lab1/ss13.png)
+
+* Remote server
 ![img](screenshots/Lab1/ss3.png)
 
 &nbsp;
