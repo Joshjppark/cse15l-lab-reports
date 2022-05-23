@@ -51,7 +51,7 @@ No, I do not think there is a small code change that will make the program work 
 
 **My implementation**
 * Did not pass:
-![img](screenshots/Lab4/ss5.png)
+![img](screenshots/Lab4/ss6.png)
 
 **Reviewed implementation**
 * Did not pass:
